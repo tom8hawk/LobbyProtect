@@ -1,0 +1,4 @@
+name: LobbyProtect
+version: '${project.version}'
+main: ru.baronessdev.personal.lobbyprotect.LobbyProtect
+depend: [ ProtocolLib ]
